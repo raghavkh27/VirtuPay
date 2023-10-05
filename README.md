@@ -20,15 +20,4 @@ Online Banking Interface
   pin: 2222,
   username : jd
 
-  owner: 'Steven Thomas Williams',
-  movements: [200, -200, 340, -300, -20, 50, 400, -460],
-  interestRate: 0.7%,
-  pin: 3333,
-  username : stw
-
-  owner: 'Sarah Smith',
-  movements: [430, 1000, 700, 50, 90],
-  interestRate: 1%,
-  pin: 4444,
-  username : ss
-  }
+ }
